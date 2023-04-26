@@ -16,7 +16,7 @@
 - [Банк Открытие](https://talent.open.ru/internship)
 - [Центр финансовых технологий](https://team.cft.ru/start/school)
 - [АТОН](https://www.aton.ru/about/career/ittp/?utm_medium=indiv_mail&utm_source=fut&utm_campaign=294428658&utm_content=2023-04-05+13%3A30%3A00)
-- [MARS](https://careers.mars.com/ru/ru/mars-internship-experience-program#ph-ZLm8N)
+- [НРБ Капитал](https://changellenge.com/event/nrb_capital/)
 - [Стажировки в IT](https://changellenge.com/vacancy/filter/indystry-is-it/apply/)
 
 ## Вопросы на собеседовании с лучшими ответами
