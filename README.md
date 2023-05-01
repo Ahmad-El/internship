@@ -12,7 +12,7 @@
 - [VK](https://internship.vk.company/internship)
 - [Альфа-Банк](https://job.alfabank.ru/start-career)
 - [Газпромбанк](https://gpb.fut.ru/levelup?utm_source=fut&utm_medium=mail&utm_campaign=organic&utm_content=predreg)
-- [Озон](https://job.ozon.ru/internships/)
+- [Озон](https://job.ozon.ru/internships/), [Ozon camp](https://ozoncamp.pro/?utm_source=ozon&utm_medium=vk&utm_campaign=summercamp), [Ozon tech](https://ozon.tech/routestart)
 - [Банк Открытие](https://talent.open.ru/internship)
 - [Центр финансовых технологий](https://team.cft.ru/start/school)
 - [АТОН](https://www.aton.ru/about/career/ittp/?utm_medium=indiv_mail&utm_source=fut&utm_campaign=294428658&utm_content=2023-04-05+13%3A30%3A00)
