@@ -1,5 +1,6 @@
 ## Стажировки 2023 в России
 
+- [neoflex](https://edu.neoflex.ru/) - раз в полгода проводит набор на обучение с последующим трудоусройством.
 - [Авито](https://start.avito.ru/)
 - [Контур](https://kontur.ru/education/programs/intern)
 - [Сбер для студентов](https://sbergraduate.ru/sberseasons-moscow/)
