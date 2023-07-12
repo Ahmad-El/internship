@@ -1,5 +1,5 @@
-## Стажировки 2023 в России
-
+# Стажировки 2023 в России
+[Как устроиться на работу, без опыта работы?](https://www.youtube.com/watch?v=ES8OpcxjiPc&ab_channel=BadKings)
 - [neoflex](https://edu.neoflex.ru/) - раз в полгода проводит набор на обучение с последующим трудоусройством.
 - [Авито](https://start.avito.ru/)
 - [Контур](https://kontur.ru/education/programs/intern)
