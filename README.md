@@ -45,3 +45,11 @@
 ## Методичка про поиск работы и переговоры при приеме на работу
 [Методичка](https://btseytlin.github.io/intro.html)
 
+## Резюме Data Engineer
+[CV](https://docs.google.com/document/d/1tYi0s7yNsGl_Xts5CrHDegLvAtlHtz7jPSp074MfCyI/edit#heading=h.rr0cd0we5zlc)
+
+## Полезные ссылки стаи "Осознанная меркантильность"
+- [Ссылки](https://telegra.ph/Poleznye-ssylki-stai-Osoznannaya-merkantilnost-07-10#%D0%94%D1%80%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0)
+- [Менторство](https://airtable.com/appDKVMc7eqbJ66JF/shrtaxIYf2T7CcleD/tbl91qwQV2k28mG9a)
+
+
