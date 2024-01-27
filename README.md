@@ -45,6 +45,8 @@
 ## Методички
 - [Поиск работы и переговоры при приеме на работу](https://btseytlin.github.io/intro.html)
 - [Менторство по DE](https://razvodov-mentorship-de.notion.site/razvodov-mentorship-de/Mentorship-on-DE-2bdd4bfdbcb745a9b3bf71aeaa4da18c)
+- [Справочник по техническому интервью](https://www.techinterviewhandbook.org/)
+- [Валютная удаленка](https://twitter.com/M0rtyMerr/status/1502230397245087747?s=20&t=s4yiIb21Xv41pFpYLTntYA)
 
 ## Резюме Data Engineer
 [CV](https://docs.google.com/document/d/1tYi0s7yNsGl_Xts5CrHDegLvAtlHtz7jPSp074MfCyI/edit#heading=h.rr0cd0we5zlc)
