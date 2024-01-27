@@ -56,5 +56,6 @@
 - [Менторство](https://airtable.com/appDKVMc7eqbJ66JF/shrtaxIYf2T7CcleD/tbl91qwQV2k28mG9a)
 - [Валютная удаленка](https://twitter.com/M0rtyMerr/status/1502230397245087747?s=20&t=s4yiIb21Xv41pFpYLTntYA)
 - [Ценности Осознанной Меркантильности](https://telegra.ph/Cennosti-Osoznannoj-Merkantilnosti-09-28)
+- [База знаний](https://docs.google.com/document/d/1JAObwghUnQ3K7t_8oITbYEDDRREFxxI1NGRdT9vhbqs/edit#heading=h.82aspg1bcpei)
 
 
