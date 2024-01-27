@@ -46,13 +46,14 @@
 - [Поиск работы и переговоры при приеме на работу](https://btseytlin.github.io/intro.html)
 - [Менторство по DE](https://razvodov-mentorship-de.notion.site/razvodov-mentorship-de/Mentorship-on-DE-2bdd4bfdbcb745a9b3bf71aeaa4da18c)
 - [Справочник по техническому интервью](https://www.techinterviewhandbook.org/)
-- [Валютная удаленка](https://twitter.com/M0rtyMerr/status/1502230397245087747?s=20&t=s4yiIb21Xv41pFpYLTntYA)
 
 ## Резюме Data Engineer
 [CV](https://docs.google.com/document/d/1tYi0s7yNsGl_Xts5CrHDegLvAtlHtz7jPSp074MfCyI/edit#heading=h.rr0cd0we5zlc)
 
 ## Полезные ссылки стаи "Осознанная меркантильность"
+- [Карта контента](https://telegra.ph/Karta-kontenta-10-11#%D0%92%D0%B5%D1%81%D1%8C-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BC%D0%B0%D0%BC-(%D0%B2-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5))
 - [Ссылки](https://telegra.ph/Poleznye-ssylki-stai-Osoznannaya-merkantilnost-07-10)
 - [Менторство](https://airtable.com/appDKVMc7eqbJ66JF/shrtaxIYf2T7CcleD/tbl91qwQV2k28mG9a)
+- [Валютная удаленка](https://twitter.com/M0rtyMerr/status/1502230397245087747?s=20&t=s4yiIb21Xv41pFpYLTntYA)
 
 
