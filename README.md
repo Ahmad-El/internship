@@ -42,6 +42,9 @@
 4) Примеры вакансий или проектов, которые вам интерсным
 5) Призыв к действию (что будет следующим шагом: звонок, встреча, отправка резюме или собеседование)
 
+# FAANG Interview. 
+- [Бортовые заметки сообщества](https://github.com/luta-wolf/faang-interview.github.io/blob/gh-pages/index.md)
+
 ## Методички
 - [Поиск работы и переговоры при приеме на работу](https://btseytlin.github.io/intro.html)
 - [Менторство по DE](https://razvodov-mentorship-de.notion.site/razvodov-mentorship-de/Mentorship-on-DE-2bdd4bfdbcb745a9b3bf71aeaa4da18c)
