@@ -42,6 +42,12 @@
 4) Примеры вакансий или проектов, которые вам интерсным
 5) Призыв к действию (что будет следующим шагом: звонок, встреча, отправка резюме или собеседование)
 
+# Найти ментора
+- [getmentor](https://getmentor.dev/)
+- [easyoffer](https://easyoffer.ru/mentor)
+- [Осознанная меркантильность](https://airtable.com/appDKVMc7eqbJ66JF/shrtaxIYf2T7CcleD/tbl91qwQV2k28mG9a)
+
+
 # FAANG Interview. 
 - [Бортовые заметки сообщества](https://github.com/luta-wolf/faang-interview.github.io/blob/gh-pages/index.md)
 
