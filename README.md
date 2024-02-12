@@ -66,6 +66,6 @@
 - [Андрей Смирнов. Карьерные уровни soft skills](https://www.youtube.com/watch?v=g3oRegcNXQI)
 - [Андрей Смирнов. Карьерные уровни soft skills v2s](https://www.youtube.com/watch?v=NkJtqEjCWBo)
 
-## Лобеседования
+## Собеседования
 [Проходим собеседования эффективно](https://telegra.ph/Prohodim-sobesedovaniya-ehffektivno-02-02)
 
