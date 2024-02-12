@@ -62,4 +62,7 @@
 - [Ценности Осознанной Меркантильности](https://telegra.ph/Cennosti-Osoznannoj-Merkantilnosti-09-28)
 - [База знаний](https://docs.google.com/document/d/1JAObwghUnQ3K7t_8oITbYEDDRREFxxI1NGRdT9vhbqs/edit#heading=h.82aspg1bcpei)
 
+## Полезные видео
+- [Андрей Смирнов. Карьерные уровни soft skills](https://www.youtube.com/watch?v=g3oRegcNXQI)
+- [Андрей Смирнов. Карьерные уровни soft skills v2s](https://www.youtube.com/watch?v=NkJtqEjCWBo)
 
