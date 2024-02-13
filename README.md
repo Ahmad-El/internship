@@ -69,8 +69,12 @@
 - [База знаний](https://docs.google.com/document/d/1JAObwghUnQ3K7t_8oITbYEDDRREFxxI1NGRdT9vhbqs/edit#heading=h.82aspg1bcpei)
 
 ## Полезные видео
-- [Андрей Смирнов. Карьерные уровни soft skills](https://www.youtube.com/watch?v=g3oRegcNXQI)
-- [Андрей Смирнов. Карьерные уровни soft skills v2s](https://www.youtube.com/watch?v=NkJtqEjCWBo)
+- [МО: Как получить от сообщества максимум пользы](https://www.youtube.com/watch?v=xgTkt5DuvZY&ab_channel=AntonNazarov)
+- [МО: Гайд по накрутке опыта](https://www.youtube.com/watch?v=HQyYtyvkaGc&t=37s&ab_channel=AntonNazarov)
+- [МО: Гайд по ИТ собесам](https://www.youtube.com/watch?v=lq4TKfc-Ot4&ab_channel=AntonNazarov)
+- [МО: Гайд по повышению зарплаты в IT](https://www.youtube.com/watch?v=7yFXrA0rHrw&ab_channel=AntonNazarov)
+- [Карьерные уровни soft skills Андрей Смирнов](https://www.youtube.com/watch?v=g3oRegcNXQI)
+- [Карьерные уровни soft skills v2s Андрей Смирнов](https://www.youtube.com/watch?v=NkJtqEjCWBo)
 
 ## Собеседования
 [Проходим собеседования эффективно](https://telegra.ph/Prohodim-sobesedovaniya-ehffektivno-02-02)
