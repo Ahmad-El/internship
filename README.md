@@ -72,7 +72,9 @@
 - [МО: Как получить от сообщества максимум пользы](https://www.youtube.com/watch?v=xgTkt5DuvZY&ab_channel=AntonNazarov)
 - [МО: Гайд по накрутке опыта](https://www.youtube.com/watch?v=HQyYtyvkaGc&t=37s&ab_channel=AntonNazarov)
 - [МО: Гайд по ИТ собесам](https://www.youtube.com/watch?v=lq4TKfc-Ot4&ab_channel=AntonNazarov)
+- [МО: Как правильно торговаться за оффер](https://www.youtube.com/watch?v=XHsHdZCJ6HE&ab_channel=AntonNazarov)
 - [МО: Гайд по повышению зарплаты в IT](https://www.youtube.com/watch?v=7yFXrA0rHrw&ab_channel=AntonNazarov)
+- [МО: Как работать на 2 работах](https://www.youtube.com/watch?v=i4MjGlOQZmQ&t=1472s&ab_channel=AntonNazarov)
 - [Карьерные уровни soft skills Андрей Смирнов](https://www.youtube.com/watch?v=g3oRegcNXQI)
 - [Карьерные уровни soft skills v2s Андрей Смирнов](https://www.youtube.com/watch?v=NkJtqEjCWBo)
 
