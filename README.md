@@ -1,4 +1,7 @@
-# Стажировки 2023 в России
+## Стажировки
+<details>
+<summary>Стажировки 2023 в России</summary>
+
 [Как устроиться на работу, без опыта работы?](https://www.youtube.com/watch?v=ES8OpcxjiPc&ab_channel=BadKings)
 - [neoflex](https://edu.neoflex.ru/) - раз в полгода проводит набор на обучение с последующим трудоусройством.
 - [Авито](https://start.avito.ru/)
@@ -19,6 +22,7 @@
 - [АТОН](https://www.aton.ru/about/career/ittp/?utm_medium=indiv_mail&utm_source=fut&utm_campaign=294428658&utm_content=2023-04-05+13%3A30%3A00)
 - [НРБ Капитал](https://changellenge.com/event/nrb_capital/)
 - [Стажировки в IT](https://changellenge.com/vacancy/filter/indystry-is-it/apply/)
+</details>
 
 ## Вопросы на собеседовании с лучшими ответами
 - [Tell Me About Yourself](https://www.youtube.com/watch?v=TQHW7gGjrCQ&ab_channel=TheCompaniesExpert)
@@ -42,23 +46,22 @@
 4) Примеры вакансий или проектов, которые вам интерсным
 5) Призыв к действию (что будет следующим шагом: звонок, встреча, отправка резюме или собеседование)
 
-# Найти ментора
-- [getmentor](https://getmentor.dev/)
-- [easyoffer](https://easyoffer.ru/mentor)
-- [Осознанная меркантильность](https://airtable.com/appDKVMc7eqbJ66JF/shrtaxIYf2T7CcleD/tbl91qwQV2k28mG9a)
-
-
-# FAANG Interview. 
-- [Бортовые заметки сообщества](https://github.com/luta-wolf/faang-interview.github.io/blob/gh-pages/index.md)
-
-## Методички
+## Собеседования. Методички
+- [FAANG Interview. Бортовые заметки сообщества](https://github.com/luta-wolf/faang-interview.github.io/blob/gh-pages/index.md)
 - [Поиск работы и переговоры при приеме на работу](https://btseytlin.github.io/intro.html)
 - [Менторство по DE](https://razvodov-mentorship-de.notion.site/razvodov-mentorship-de/Mentorship-on-DE-2bdd4bfdbcb745a9b3bf71aeaa4da18c)
 - [Справочник по техническому интервью](https://www.techinterviewhandbook.org/)
+- [Проходим собеседования эффективно](https://telegra.ph/Prohodim-sobesedovaniya-ehffektivno-02-02)
+- [Что спросить на собеседовании?](https://vk.com/@enjirouz-company-interview-questions)
 
 ## Резюме Data Engineer
 - [CV_1](https://docs.google.com/document/d/1tYi0s7yNsGl_Xts5CrHDegLvAtlHtz7jPSp074MfCyI/edit#heading=h.rr0cd0we5zlc)
 - [CV_2](https://dotsum.github.io/#/home)
+
+## Найти ментора
+- [getmentor](https://getmentor.dev/)
+- [easyoffer](https://easyoffer.ru/mentor)
+- [Осознанная меркантильность](https://airtable.com/appDKVMc7eqbJ66JF/shrtaxIYf2T7CcleD/tbl91qwQV2k28mG9a)
 
 ## Полезные ссылки стаи "Осознанная меркантильность"
 - [Карта контента](https://telegra.ph/Karta-kontenta-10-11#%D0%92%D0%B5%D1%81%D1%8C-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BC%D0%B0%D0%BC-(%D0%B2-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5))
@@ -83,7 +86,3 @@
 - [МО: Осознанный подход к фильтрации окружения](https://www.youtube.com/watch?v=HfuO_HPklNc&ab_channel=AntonNazarov)
 - [Карьерные уровни soft skills Андрей Смирнов](https://www.youtube.com/watch?v=g3oRegcNXQI)
 - [Карьерные уровни soft skills v2s Андрей Смирнов](https://www.youtube.com/watch?v=NkJtqEjCWBo)
-
-## Собеседования
-[Проходим собеседования эффективно](https://telegra.ph/Prohodim-sobesedovaniya-ehffektivno-02-02)
-
