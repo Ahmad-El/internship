@@ -24,15 +24,19 @@
 - [Стажировки в IT](https://changellenge.com/vacancy/filter/indystry-is-it/apply/)
 </details>
 
-## Вопросы на собеседовании с лучшими ответами
+<details>
+<summary>Вопросы на собеседовании с лучшими ответами</summary>
+  
 - [Tell Me About Yourself](https://www.youtube.com/watch?v=TQHW7gGjrCQ&ab_channel=TheCompaniesExpert)
-
 - [What are your Salary Expectations?](https://www.youtube.com/watch?v=WChxbBSlWnQ&ab_channel=TheCompaniesExpert)
 - [Why Should We Hire You?](https://www.youtube.com/watch?v=WQ6snVCCgt4&t=4s&ab_channel=TheCompaniesExpert)
 - [What is your Weakness?](https://www.youtube.com/watch?v=yzWo8EXsfTs&ab_channel=TheCompaniesExpert)
 - [Why Did you Leave your Last Job?](https://www.youtube.com/watch?v=ofTfvFcj5ok&ab_channel=TheCompaniesExpert)
+</details>
 
-## Elevator pitch
+<details>
+<summary>Elevator pitch</summary>
+  
 - [Elevator pitch](https://www.youtube.com/watch?v=25ZvqrascRc&ab_channel=TorontoRaptors) - короткая 20-60 сек, энергичная речь с целью презентовать себя, чтобы  любой человек понял кто вы, чем вы занимаетесь, а также захотел продолжить общение с вами.
 - краткость 20 сек
 - доступность
@@ -45,14 +49,18 @@
 3) Чем вы может быть полезны и выгоды от сотрудничества с вами
 4) Примеры вакансий или проектов, которые вам интерсным
 5) Призыв к действию (что будет следующим шагом: звонок, встреча, отправка резюме или собеседование)
+</details>
 
-## Собеседования. Методички
+## Статьи и методички по собеседованиям
 - [FAANG Interview. Бортовые заметки сообщества](https://github.com/luta-wolf/faang-interview.github.io/blob/gh-pages/index.md)
 - [Поиск работы и переговоры при приеме на работу](https://btseytlin.github.io/intro.html)
 - [Менторство по DE](https://razvodov-mentorship-de.notion.site/razvodov-mentorship-de/Mentorship-on-DE-2bdd4bfdbcb745a9b3bf71aeaa4da18c)
 - [Справочник по техническому интервью](https://www.techinterviewhandbook.org/)
 - [Проходим собеседования эффективно](https://telegra.ph/Prohodim-sobesedovaniya-ehffektivno-02-02)
 - [Что спросить на собеседовании?](https://vk.com/@enjirouz-company-interview-questions)
+- [Хочешь найти работу? Продай себя!](https://telegra.ph/Hochesh-najti-rabotu-Prodaj-sebya-01-04)
+- [Как написать сильное резюме](https://telegra.ph/Kak-napisat-silnoe-rezyume-01-05)
+- [Самопрезентация важнее знаний](https://telegra.ph/Samoprezentaciya-vazhnee-znanij-01-06)
 
 ## Резюме Data Engineer
 - [CV_1](https://docs.google.com/document/d/1tYi0s7yNsGl_Xts5CrHDegLvAtlHtz7jPSp074MfCyI/edit#heading=h.rr0cd0we5zlc)
